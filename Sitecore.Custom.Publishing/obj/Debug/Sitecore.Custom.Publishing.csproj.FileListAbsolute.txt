@@ -1,0 +1,8 @@
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\bin\Debug\Sitecore.Custom.Publishing.dll
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\bin\Debug\Sitecore.Custom.Publishing.pdb
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\bin\Debug\Sitecore.Kernel.dll
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\bin\Debug\Sitecore.Logging.dll
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\bin\Debug\Newtonsoft.Json.dll
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\obj\Debug\Sitecore.Custom.Publishing.dll
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\obj\Debug\Sitecore.Custom.Publishing.pdb
+C:\My Files\Temp\Sitecore-OpenSource\Sitecore.Custom.Publishing\Sitecore.Custom.Publishing\obj\Debug\Sitecore.Custom.Publishing.csprojResolveAssemblyReference.cache
