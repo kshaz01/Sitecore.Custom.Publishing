@@ -34,8 +34,10 @@ namespace Sitecore.Custom.Publishing
                 ID itemId = context.ItemId;
                 string userName = context.User.Name;
                 Item item = context.PublishHelper.GetItemToPublish(context.ItemId);
-
-                PublishingLog.Info("Publishing Path :" + item.Paths.FullPath.ToString() + ", ID: " + item.ID.ToString() + ", Item Language Verion: " + item.Language.Name + ", By User : " + userName);
+                
+                DateTime updatedDate = item.Statistics.Updated;
+                var updated = updatedDate != null ? updatedDate.ToString("MMMM dd yyyy H:mm:ss tt") : String.Empty;
+                PublishingLog.Info("Publishing Path :" + item.Paths.FullPath.ToString() + ", ID: " + item.ID.ToString() + ", UpdatedDate: " + updated + " , Item Language Verion: " + item.Language.Name + ", By User : " + userName);
             }
             catch (Exception ex)
             {
